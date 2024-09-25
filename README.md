@@ -1,4 +1,4 @@
-# Fast React Co Pizza 🍕
+# Fast React Pizza 🍕
 
 **Fast React Co Pizza** is a fast and simple pizza ordering application where users can place their orders, set their order as a priority for
  faster delivery, and pay upon delivery. Users are required to provide their name, phone number, and address for delivery. The address can also 
